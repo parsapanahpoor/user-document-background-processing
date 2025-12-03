@@ -1,0 +1,6 @@
+@UserDocumentAPI_HostAddress = http://localhost:5020
+
+GET {{UserDocumentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
